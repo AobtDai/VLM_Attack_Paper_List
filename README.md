@@ -234,54 +234,7 @@ If you find our survey useful for your research, please consider citing:
   - Tohoku University, NTT Human Informatics Laboratories
   - [NAACL2024]https://arxiv.org/abs/2408.03554
 
-# **Evaluation Strategies**
-## **Effectiveness**
-- **Figstep: Jailbreaking large vision-language models viatypographic visual prompts** | [Github](https://github.com/ThuCCSLab/FigStep)
-  - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang
-  - Tsinghua University, Carnegie Mellon University, Zhongguancun Laboratory, National Financial Cryptography Research Center, Shandong Institute of Blockchain, Shandong University
-  - [AAAI2025]https://arxiv.org/abs/2311.05608
-- **White-box multimodal jailbreaks against large vision-language models** | [Github](https://github.com/roywang021/UMK)
-  - Ruofan Wang, Xingjun Ma, Hanxu Zhou, Chuanjun Ji, Guangnan Ye, Yu-Gang Jiang
-  - FudanUniversity, Shanghai Jiaotong University
-  - [ACM MM2024]https://arxiv.org/abs/2405.17894
-- **MMA-diffusion: Multimodal attack on diffusion models** | [Github](https://github.com/cure-lab/MMA-Diffusion)
-  - Yijun Yang, Ruiyuan Gao, Xiaosen Wang, Tsung-Yi Ho, Nan Xu, Qiang Xu
-  - The Chinese University of Hong Kong, Huawei Singular Security Lab, Institute of Automation, Chinese Academy of Sciences,  Beijing Wenge Technology Co. Ltd
-  - [CVPR2024]https://arxiv.org/abs/2311.17516
-- **Are aligned neural networks adversarially aligned?** | 
-  - Nicholas Carlini, Milad Nasr, Christopher A. Choquette-Choo, Matthew Jagielski, Irena Gao, Anas Awadalla, Pang Wei Koh, Daphne Ippolito, Katherine Lee, Florian Tramer, Ludwig Schmidt
-  - Google DeepMind, Stanford, University of Washington, ETH Zurich
-  - [NeurIPS2023]https://arxiv.org/abs/2306.15447
-- **Figstep: Jailbreaking large vision-language models via typographic visual prompts** | [Github](https://github.com/ThuCCSLab/FigStep)
-  - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang
-  - Tsinghua University, Carnegie Mellon University, Zhongguancun Laboratory, National Financial Cryptography Research Center, Shandong Institute of Blockchain, Shandong University
-  - [AAAI2025]https://arxiv.org/abs/2311.05608
-## **Stealthiness**
-- **On the adversarial robustness of multimodal foundation models** | [Github](https://github.com/chs20/robustvlm)
-  - Christian Schlarmann, Matthias Hein
-  - University of Tubingen 
-  - [ICCV2023]https://arxiv.org/abs/2308.10741
-- **Inducing High Energy-Latency of Large Vision-Language Models with Verbose Images** | [GitHub](https://github.com/KuofengGao/Verbose_Images) 
-  - Kuofeng Gao, Yang Bai, Jindong Gu, Shu-Tao Xia, Philip Torr, Zhifeng Li, Wei Liu
-  - Tsinghua University, Tencent Technology, University of Oxford, Tencent Data Platform,  Peng Cheng Laboratory
-  - [ICLR2024]https://arxiv.org/abs/2401.11170
-## **Transferability**
-#### **Among Tasks**
-- **Vlattack: Multimodal adversarial attacks on vision-language tasks via pre-trained models** | [Github](https://github.com/ericyinyzy/VLAttack)
-  - Ziyi Yin, Muchao Ye, Tianrong Zhang, Tianyu Du, Jinguo Zhu, Han Liu, Jinghui Chen, Ting Wang, Fenglong Ma
-  - The Pennsylvania State University, Zhejiang University, Xi'an Jiaotong University, Dalian University of Technology, Stony Brook University
-  - [NeurIPS2023]https://arxiv.org/abs/2310.04655
-#### **Among Models**
-- **Transferable multimodal attack on vision-language pre-training models** | 
-  - Haodi Wang, Kai Dong, Zhilei Zhu, Haotong Qin, Aishan Liu, Xiaolin Fang, Jiakai Wang, Xianglong Liu
-  - Southeast University, Zhongguancun Laboratory, Data Space Research Institute of Hefei Comprehensive National Science Centre, Beihang University
-  - [S&P2024]https://ieeexplore.ieee.org/document/10646738
-#### **Among Inputs**
-- **Set-level Guidance Attack: Boosting Adversarial Transferability of Vision-Language Pre-training Models** | [Github](https://github.com/Zoky-2020/Set-level_Guidance_Attack)
-  - Dong Lu, Zhiqiang Wang, Teng Wang, Weili Guan, Hongchang Gao, Feng Zheng
-  - Southern University of Science and Technology, The University of Hong Kong, Monash University, Temple University, Peng Cheng Laboratory
-  - [ICCV2023]https://arxiv.org/abs/2307.14061
-## **Efficiency**
+
 
 
 
