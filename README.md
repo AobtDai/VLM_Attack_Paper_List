@@ -28,7 +28,8 @@ If you find our survey useful for your research, please consider citing:
   - [Stealthiness](#stealthiness)
   - [Transferability](#transferability)
   - [Efficiency](#efficiency)
-![teaser]()
+    
+![teaser](./teaser.png)
 
 # **Taxonomy of Attack Goal**
 ## **Jailbreak**
