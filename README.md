@@ -10,7 +10,6 @@ Here, we've summarized existing VLM Attack methods in our survey paper.
 If you find some important work missed, it would be super helpful to let me know (adai590@connect.hkust-gz.edu.cn). Thanks!
 
 If you find our survey useful for your research, please consider citing:
-(这里放论文的引用)
 
 ---
 ## **Table of Contents**
