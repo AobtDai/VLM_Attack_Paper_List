@@ -22,11 +22,6 @@ If you find our survey useful for your research, please consider citing:
   - [Gradient-Driven Prompts](#gradient-driven-prompts)
   - [Human-Like Deceptive Prompts](#human-like-deceptive-prompts)
   - [Typography](#typography)
-* [Evaluation Strategies](#evaluation-strategies)
-  - [Effectiveness](#effectiveness)
-  - [Stealthiness](#stealthiness)
-  - [Transferability](#transferability)
-  - [Efficiency](#efficiency)
     
 ![teaser](./teaser.png)
 
