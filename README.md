@@ -4,12 +4,23 @@
 This repository organizes the relevant research papers and information mentioned in the review paper **"When Data Manipulation Meets Attack Goals: An In-depth Meta-Survey of Attacks for VLMs"** The review focuses on the attacks and defense methods for Vision-Language Models (VLMs), covering attack goals, data manipulation methods, and relevant evaluation metrics.
 
 Here, we've summarized existing VLM Attack methods in our survey paper.
-[Paper Link](https://arxiv.org/abs/XXXXXX)
+[Paper Link](https://arxiv.org/abs/2502.06390)
 
 
 If you find some important work missed, it would be super helpful to let me know (adai590@connect.hkust-gz.edu.cn). Thanks!
 
 If you find our survey useful for your research, please consider citing:
+```tex
+@misc{dai2025datamanipulationmeetsattack,
+      title={When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs}, 
+      author={Aobotao Dai and Xinyu Ma and Lei Chen and Songze Li and Lin Wang},
+      year={2025},
+      eprint={2502.06390},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      note={{\it{arXiv:2502.06390}}}
+}
+```
 
 ---
 ## **Table of Contents**
@@ -114,6 +125,10 @@ If you find our survey useful for your research, please consider citing:
   - Tingwei Zhang, Rishi Jha, Eugene Bagdasaryan, Vitaly Shmatikov
   - Cornell University, University of Massachusetts Amherst, Cornell Tech
   - [USENIX2024]https://arxiv.org/abs/2308.11804
+- **Chain of attack: On the robustness of vision-language models against transfer-based adversarial attacks** | 
+  - Peng Xie, Yequan Bie, Jianda Mao, Yangqiu Song, Yang Wang, Hao Chen, Kani Chen
+  - The Hong Kong University of Science and Technology 
+  - [Arxiv2024]https://arxiv.org/abs/2411.15720
 #### **Operational Hijacking**
 - **Physical backdoor attack can jeopardize driving with vision-large-language models** | [Github](https://github.com/vincentni0107/badvlmdriver)
   - Zhenyang Ni, Rui Ye, Yuxi Wei, Zhen Xiang, Yanfeng Wang, Siheng Chen
